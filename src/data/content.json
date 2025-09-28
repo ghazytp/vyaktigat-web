@@ -1,0 +1,106 @@
+{
+  "nav": [
+    { "label": "about", "href": "/" },
+    { "label": "notes", "href": "#notes" },
+    { "label": "contact", "href": "#contact" }
+  ],
+  "header": {
+    "title": "Ghazy Timor Prihanda",
+    "location": "Yogyakarta, Indonesia"
+  },
+  "about": {
+    "description": [
+      "Frontend-focused full-stack developer passionate about crafting clean, maintainable, and user-friendly web experiences.",
+      "I turn complex problems into elegant solutions and continuously refine my skills through projects and learning.",
+      "I build tools and experiences that are functional, intuitive, and make life easier for users."
+    ],
+    "interests": [
+      "AI",
+      "software engineering",
+      "productivity systems",
+      "comics",
+      "learning strategies",
+      "building tools that make life easier"
+    ]
+  },
+  "skills": [
+    "#JavaScript",
+    "#TypeScript",
+    "#React",
+    "#NextJS",
+    "#TailwindCSS",
+    "#Vite",
+    "#ReactQuery",
+    "#NodeJS",
+    "#Express",
+    "#RESTAPI",
+    "#Supabase",
+    "#MaterialUI",
+    "#FluentUI",
+    "#WebPerformance",
+    "#ProblemSolving",
+    "#CodeMaintainability",
+    "#AIIntegration",
+    "#GenerativeAI"
+  ],
+  "sideProjects": [
+    {
+      "title": "Novaria DeFi",
+      "description": "Create decentralized finance solutions.",
+      "tags": ["web3", "solidity", "decentralized finance", "hackathon"],
+      "date": "2024",
+      "url": "https://novaria.vercel.app/"
+    },
+    {
+      "title": "Kitchen Management App",
+      "description": "Manage inventory and custom requirements for restaurants.",
+      "tags": ["inventory", "management", "restaurant", "productivity"],
+      "date": "2024"
+    },
+    {
+      "title": "Store Management App",
+      "description": "Manage inventory and sales order flow.",
+      "tags": ["inventory", "sales", "management", "web app"],
+      "date": "2025"
+    }
+  ],
+  "experiences": [
+    {
+      "company": "Kitameraki",
+      "role": "Front End Engineer",
+      "date": "2023 - Present"
+    },
+    {
+      "company": "Freelance",
+      "role": "Software Engineer",
+      "date": "2022 - Present"
+    }
+  ],
+  "socials": [
+    {
+      "type": "email",
+      "label": "Email",
+      "href": "mailto:ghazytp@gmail.com"
+    },
+    {
+      "type": "github",
+      "label": "Github",
+      "href": "https://github.com/ghazytp"
+    },
+    {
+      "type": "linkedin",
+      "label": "Linkedin",
+      "href": "https://linkedin.com/in/ghazytp"
+    },
+    {
+      "type": "instagram",
+      "label": "Instagram",
+      "href": "https://instagram.com/ghzytp"
+    },
+    {
+      "type": "x",
+      "label": "X",
+      "href": "https://x.com/ghazytp"
+    }
+  ]
+}
